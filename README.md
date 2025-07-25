@@ -51,3 +51,4 @@
 1. [To-do-List](https://github.com/Divya04Patel/To-do-list)
 2. [Virtual Chemistry Lab](https://github.com/Divya04Patel/Virtual-Chemistry-Lab-)
 3. [Facetruth: Deepfake image detection](https://github.com/Divya04Patel/Facetruth-Deepfake-Detection)
+4. [Mediwise: Medicine recommendation System](https://github.com/Divya04Patel/Mediwise-Medicine-recommendation-System)
