@@ -4,7 +4,7 @@
 - 🎓 Pursuing Integrated M.Tech in Data Science  
 - 🤖 Passionate about Machine Learning & AI  
 - 📊 Transforming data into actionable insights  
-- 📫 Reach me: [email2divyapatel2005@gmail.com](mailto:email2divyapatel2005@gmail.com)  
+- 📫 Reach me: [divyadilippatel4@gmail.com](mailto:divyadilippatel4@gmail.com)  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-patel-596386250)
