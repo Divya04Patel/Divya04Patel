@@ -2,7 +2,9 @@
 
 <div style="display: flex; gap: 10px;">
   <a href="https://leetcode.com/u/Divya4Patel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a> LeetCode  
+  
   <a href="https://www.geeksforgeeks.org/profile/divyapatel04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a> GeeksforGeeks
+  
   <a href="https://codeforces.com/profile/Divya04P" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a> Codeforces
 
 </div>
